@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="WhyLazyDoggo" id="f0be9af0-fc40-4df3-aa5a-65293cad522e">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
